@@ -1,0 +1,78 @@
+{
+  "raja":{
+    "img":"images.png",
+    "name":[
+    "G. K. Raja",
+    "gkraja @ gmail. com",
+    "VRSE, VIJAYAWADA ",
+    "9052507933"
+  ]
+},
+"profile":[
+  {
+    "picture": "Professional Summary",
+    "number":[
+      "To associate with progressive organization that gives me a chance to update my skills according to latest trends and be a part of team that work dynamically Towards the growth of organization.",
+      "A Progressive Web App (PWA) is a web app that uses modern web capabilities to deliver an app-like experience to users. ... You can deploy your app as a PWA as well as Native app and take advantage of both channels. Ionic allows you to ship your app to not only the app store, but also deploy to the mobile web as a PWA."
+    ]
+  },
+  {
+    "picture": "Technical Skills",
+    "number":[
+      "WINDOWS, LINUX",
+      "Basics of JAVA, HTML,CSS and JavaScript",
+      "MS OFFICE, MIT App Inventor,Android studio"
+    ]
+
+  },
+  {
+    "picture": "Work Experience",
+    "number":[
+      "APSSDC (2016 May-2018 Jan)",
+      "All SDC centers",
+      "Working in Andhra Pradesh State Skill Development Corporation for 1.7 years. Trained 700 faculty members and 1 lakh students for google india code to learn contest and my role is trainer cum team lead, and also Trained B.Tech Students on their Projects in the areas of Web Designing and Programming in HTML & PHP Environment and also trained MIT App Inventor tool to develop Android applications, And now learning Android using Android Studio, and also learning new approach PWA(Progressive Web App)"
+    ]
+
+  },
+  {
+    "picture": "Education",
+    "number":[
+
+    ]
+
+  },
+  {
+    "picture": "B-tech(Electronics and communication engineering)",
+    "number":[
+      "CBIT College Proddatur",
+      "2012-2016",
+      "70%"
+    ]
+  },
+  {
+    "picture": "Intermediate(M.P.C)",
+    "number":[
+      "Sri Venkateswara Junior college",
+      "2010-2012",
+      "60.5%"
+    ]
+  },
+  {
+    "picture": "SSC",
+    "number":[
+      "Sri Maharshi High school ",
+      "2009-2010",
+      "75.5%"
+    ]
+  },
+  {
+    "picture": "Achievement / Awards",
+    "number":[
+      "I actively participated in seminars in my college.",
+      "Participated in social welfare activities and NSS in our college",
+      "I received the first prize in chess at our college engineering day cellebrations."
+    ]
+  }
+]
+
+}
